@@ -1,2 +1,3 @@
 # My-projectt
-My projectt
+Имя: Султанов Даниил
+Направление: back-end разработчик
